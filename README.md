@@ -1,2 +1,2 @@
-# Berry-Moore-Farm
-Repository for Berry Moore Farm project
+# Berrymore-Farm
+Repository for Berrymore Farm project
